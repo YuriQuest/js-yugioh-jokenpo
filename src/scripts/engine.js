@@ -19,11 +19,11 @@ const state = {
 };
 
 const playerSides = {
-    player1: "player-field-card",
-    computer: "computer-field-card",
+    player1: "player-cards",
+    computer: "computer-cards",
 };
 
-const cardPathImages = ".src/assets/icons/";
+const cardPathImages = "./src/assets/icons/";
 
 const cardData = [
     {
