@@ -106,6 +106,7 @@
 
 #next-duel{
     display: none;
+    text-transform: uppercase;
 }
 
 .card-box{
